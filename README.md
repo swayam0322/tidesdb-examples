@@ -4,7 +4,7 @@ Community shared examples of using TidesDB in different ways, with different too
 
 # layout
 ```
-root/<lang>/<example_name>
+root/<lang>/<example_name>/..example files
 ```
 
 For any example, build instructions, running instructions are a must!
