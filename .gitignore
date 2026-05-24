@@ -1,0 +1,34 @@
+# Compiled binaries (Makefile outputs: <example>/<example>)
+c/01-basic-crud/01-basic-crud
+c/02-column-families/02-column-families
+c/03-transactions/03-transactions
+c/04-benchmarks/04-benchmarks
+c/05-ttl/05-ttl
+c/06-crash-recovery/06-crash-recovery
+c/07-compression/07-compression
+
+# TidesDB data directories
+**/data/
+
+# C build artifacts
+*.o
+*.d
+*.a
+*.so
+*.so.*
+*.dylib
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+compile_commands.json
